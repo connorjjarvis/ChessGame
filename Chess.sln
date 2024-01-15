@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess", "Chess\Chess.csproj", "{65F10C5E-E148-4110-B9EA-255D8D88DB81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess.Tests", "Chess.Tests\Chess.Tests.csproj", "{B7440F4F-5B38-46B0-A8F2-55504CDFAD28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessV2", "ChessV2\ChessV2.csproj", "{E2EB524F-5848-4728-9D32-F7898D2805A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F10C5E-E148-4110-B9EA-255D8D88DB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F10C5E-E148-4110-B9EA-255D8D88DB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F10C5E-E148-4110-B9EA-255D8D88DB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F10C5E-E148-4110-B9EA-255D8D88DB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7440F4F-5B38-46B0-A8F2-55504CDFAD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7440F4F-5B38-46B0-A8F2-55504CDFAD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7440F4F-5B38-46B0-A8F2-55504CDFAD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7440F4F-5B38-46B0-A8F2-55504CDFAD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EB524F-5848-4728-9D32-F7898D2805A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EB524F-5848-4728-9D32-F7898D2805A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EB524F-5848-4728-9D32-F7898D2805A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EB524F-5848-4728-9D32-F7898D2805A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33FF4732-BF49-4A0E-967B-0D57EFF7E21D}
+	EndGlobalSection
+EndGlobal
